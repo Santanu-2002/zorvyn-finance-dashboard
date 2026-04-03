@@ -1,0 +1,36 @@
+[
+  { "date": "2026-03-01", "amount": 120000, "category": "Client Payment", "type": "income" },
+  { "date": "2026-03-02", "amount": 15000, "category": "Office Rent", "type": "expense" },
+  { "date": "2026-03-03", "amount": 8000, "category": "Utilities", "type": "expense" },
+  { "date": "2026-03-04", "amount": 50000, "category": "Client Payment", "type": "income" },
+  { "date": "2026-03-05", "amount": 40000, "category": "Salary", "type": "income" },
+  { "date": "2026-03-06", "amount": 7000, "category": "Operations", "type": "expense" },
+  { "date": "2026-03-07", "amount": 30000, "category": "Client Payment", "type": "income" },
+  { "date": "2026-03-08", "amount": 6000, "category": "Operations", "type": "expense" },
+  { "date": "2026-03-09", "amount": 10000, "category": "Marketing", "type": "expense" },
+  { "date": "2026-03-10", "amount": 90000, "category": "Client Payment", "type": "income" },
+
+  { "date": "2026-03-11", "amount": 14000, "category": "Operations", "type": "expense" },
+  { "date": "2026-03-12", "amount": 40000, "category": "Client Payment", "type": "income" },
+  { "date": "2026-03-13", "amount": 5000, "category": "Utilities", "type": "expense" },
+  { "date": "2026-03-14", "amount": 25000, "category": "Salary", "type": "income" },
+  { "date": "2026-03-15", "amount": 20000, "category": "Operations", "type": "expense" },
+  { "date": "2026-03-16", "amount": 75000, "category": "Client Payment", "type": "income" },
+  { "date": "2026-03-17", "amount": 9000, "category": "Utilities", "type": "expense" },
+  { "date": "2026-03-18", "amount": 30000, "category": "Client Payment", "type": "income" },
+  { "date": "2026-03-19", "amount": 11000, "category": "Utilities", "type": "expense" },
+  { "date": "2026-03-20", "amount": 45000, "category": "Client Payment", "type": "income" },
+
+  { "date": "2026-03-21", "amount": 13000, "category": "Operations", "type": "expense" },
+  { "date": "2026-03-22", "amount": 60000, "category": "Client Payment", "type": "income" },
+  { "date": "2026-03-23", "amount": 7000, "category": "Marketing", "type": "expense" },
+  { "date": "2026-03-24", "amount": 20000, "category": "Salary", "type": "income" },
+  { "date": "2026-03-25", "amount": 16000, "category": "Office Rent", "type": "expense" },
+  { "date": "2026-03-26", "amount": 55000, "category": "Client Payment", "type": "income" },
+  { "date": "2026-03-27", "amount": 8000, "category": "Operations", "type": "expense" },
+  { "date": "2026-03-28", "amount": 35000, "category": "Client Payment", "type": "income" },
+  { "date": "2026-03-29", "amount": 9000, "category": "Utilities", "type": "expense" },
+  { "date": "2026-03-30", "amount": 70000, "category": "Client Payment", "type": "income" },
+
+  { "date": "2026-03-31", "amount": 18000, "category": "Salary", "type": "income" }
+]
